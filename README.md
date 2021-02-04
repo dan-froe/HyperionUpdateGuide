@@ -9,4 +9,4 @@
 
 #### [Hyperbian](/txt/hyperbian.md#pick-your-system) 
 
-#### LibreELEC
+#### [LibreELEC](/txt/libreelec.md#updating-libreelec) 
