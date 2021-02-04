@@ -12,7 +12,7 @@ How did you install your Version of Hyperion?
 
 &nbsp;
 
-* I compiled it via [CompileHowTo.md](https://github.com/hyperion-project/hyperion.ng/blob/master/CompileHowto.md#the-general-quick-way-without-big-comments),but did not use docker .
+* [I compiled it via, but did not use docker.](/txt/compile.md#Updating-a-compiled-version-of-hyperion) 
 
 
 &nbsp;
