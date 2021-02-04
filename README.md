@@ -1,5 +1,5 @@
 # HyperionUpdateGuide
- Decisison Path for updating Hyperion.ng
+ Decision Path for updating Hyperion.ng
 
 
 
