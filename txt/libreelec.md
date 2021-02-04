@@ -1,6 +1,6 @@
 # Updating LibreELEC! 
 
-###### [credits to Paulchen-Panther'guide](https://hyperion-project.org/threads/install-hyperion-ng-on-libreelec-x86_64-rpi-inoffiziell-unofficially.10463/) 
+###### [credits to Paulchen-Panther\'s guide](https://hyperion-project.org/threads/install-hyperion-ng-on-libreelec-x86_64-rpi-inoffiziell-unofficially.10463/) 
 
 
 First of all we deinstall the Addon via ssh
