@@ -8,7 +8,7 @@ new
 
 How did you install your Version of Hyperion?
 
-* [I downloaded a .deb package and installed it via `apt` or `dpkg`](/files-txt/raspbian.md#pick-your-system)
+* [I downloaded a .deb package and installed it via `apt` or `dpkg`](/txt/raspbian.md#pick-your-system)
 
 &nbsp;
 
@@ -68,9 +68,9 @@ How did you install your Version of Hyperion?
 
 # Pick your System:
 
-* [I use a Raspberry Pi 1 or Zero](/files-txt/raspbian.md#deb-package-pi-10)
+* [I use a Raspberry Pi 1 or Zero](/txt/raspbian.md#deb-package-pi-10)
 
-* [I use a Raspberry Pi 2/3/4](https://github.com/dan-froe/HyperionUpdateGuide/blob/master/files-txt/raspbian.md#deb-package-pi-234)
+* [I use a Raspberry Pi 2/3/4](/txt/raspbian.md#deb-package-pi-234)
 
 
 &nbsp;
