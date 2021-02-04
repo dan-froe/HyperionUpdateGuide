@@ -1,7 +1,4 @@
-# HyperionUpdateGuide
- Decision Path for updating Hyperion.ng
-
-
+###### Decision Path for updating Hyperion.ng
 
 # Hyperion Update Guide
 
