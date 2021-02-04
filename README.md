@@ -11,6 +11,8 @@
 
 #### [LibreELEC](/txt/libreelec.md#updating-libreelec)
 
+#### HyperHDR
+
 
 &nbsp;
 
