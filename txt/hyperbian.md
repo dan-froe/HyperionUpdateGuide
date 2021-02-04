@@ -188,7 +188,7 @@ You will have to write a new image on your SD card.
 
 * Download [HyperBian](https://github.com/hyperion-project/hyperion.ng) and flash it on your SD card. 
 
-* Import your backup configuration into [hyperion](http://HyperBian:8090). 
+* Import your backup configuration into [HyperBian:8090](http://HyperBian:8090). 
 
 
 
