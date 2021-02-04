@@ -181,6 +181,8 @@ Does the GUI/Webinterface work?  [Yes](/txt/congratulation.md#Congratulations) /
 &nbsp;
 # Hyperbian 
 
+<a href="https://github.com/hyperion-project/hyperion.ng"><img src="/pictures/hyperbian.gif" width="350" alt="github hyperbian logo"></a>
+
 HyperBian is Raspbian with the newest version of hyperion pre-installed. 
 You will have to write a new image on your SD card. 
 
