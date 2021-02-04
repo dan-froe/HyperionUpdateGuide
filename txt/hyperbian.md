@@ -144,3 +144,51 @@ Does the GUI/Webinterface work?  [Yes](/txt/congratulation.md#Congratulations) /
 
 &nbsp;
 
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+# Hyperbian 
+
+HyperBian is Raspbian with the newest version of hyperion pre-installed. 
+You will have to write a new image on your SD card. 
+
+* Backup up your configuration in Hyperion. 
+
+* Download [HyperBian](https://github.com/hyperion-project/hyperion.ng) and flash it on your SD card. 
+
+* Import your backup configuration into [hyperion](http://HyperBian:8090). 
+
+
+
