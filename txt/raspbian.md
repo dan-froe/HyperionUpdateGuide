@@ -189,7 +189,7 @@ Now we remove the old package, you can skip this:
 
 Choose Package
 
-You can find the latest packages on the Release page. You can copy the file from the "Assets" Dropdown Menu. The Pi 2/3/4 need an `armv7l.deb`. I will use the Alpha.7 release as an example.
+You can find the latest packages on the Release page. You can copy the file from the "Assets" Dropdown Menu. The Pi 2/3/4 needs an `armv7l.deb`. I will use the Alpha.7 release as an example.
 
 Download
 <pre><code>wget https://github.com/hyperion-project/hyperion.ng/releases/download/2.0.0-alpha.7/Hyperion-2.0.0-alpha.7-Linux-armv7l.deb</code></pre>
