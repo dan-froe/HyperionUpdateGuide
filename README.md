@@ -1,4 +1,3 @@
-###### Decision Path for updating Hyperion.ng
 
 # Hyperion Update Guide
 
@@ -11,4 +10,7 @@
 
 #### [LibreELEC](/txt/libreelec.md#updating-libreelec)
 
-### No idea, I just want the new version as simple as possible. 
+
+&nbsp;
+
+### [No idea, I just want the new version as simple as possible.](/txt/hyperbian.md#Hyperbian) 
