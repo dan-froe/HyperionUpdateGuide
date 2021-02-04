@@ -129,6 +129,11 @@ Installation
 Checking for missing dependencies
 <pre><code>sudo apt -f install</code></pre>
 
+Now reboot
+
+Does the GUI/Webinterface work?  [Yes] / [No] 
+
+
 
 &nbsp;
 
@@ -199,6 +204,10 @@ Installation
 
 Checking for missing dependencies
 <pre><code>sudo apt -f install</code></pre>
+
+Now reboot
+
+Does the GUI/Webinterface work?  [Yes] / [No] 
 
 
 &nbsp;
