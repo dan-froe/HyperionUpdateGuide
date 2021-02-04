@@ -2,7 +2,7 @@
 
 Does the GUI work after typing `hyperiond` in the SSH?
 
-[Yes](txt#you-are-missing-configurations) / [No](txt#bad.md)
+[Yes](/txt/service.md#you-are-missing-configurations) / [No](/txt/bad.md#something-went-wrong-probably)
 
 
 &nbsp;
