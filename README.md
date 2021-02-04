@@ -4,6 +4,9 @@
 
 **Which operating System do you use?**
 
+<a href="https://github.com/hyperion-project/hyperion.ng"><img src="pictures/logo.png" width="350" alt="github hyperion logo"></a>
+
+
 #### [A Raspbian/Raspberry OS Distribution.](/txt/raspbian.md#raspbian) 
 
 #### [Hyperbian](/txt/hyperbian.md#pick-your-system)
