@@ -10,6 +10,6 @@
 
 #### [A Raspbian/Raspberry OS Distribution.](/txt/raspbian.md#raspbian)
 
-#### Hyperbian
+#### [Hyperbian](/txt/hyperbian.md#pick-your-system) 
 
 
