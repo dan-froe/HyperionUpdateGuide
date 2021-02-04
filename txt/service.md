@@ -10,6 +10,7 @@ Does the GUI work after typing `hyperiond` in the SSH?
 
 &nbsp;
 
+<a href="https://github.com/hyperion-project/hyperion.ng"><img src="/pictures/logo.png" width="350" alt="github hyperion logo"></a>
 
 &nbsp;
 
