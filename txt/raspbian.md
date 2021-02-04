@@ -131,7 +131,7 @@ Checking for missing dependencies
 
 Now reboot
 
-Does the GUI/Webinterface work?  [Yes] / [No] 
+Does the GUI/Webinterface work?  [Yes](/txt/congratulation.md#Congratulations) / [No](/txt/service.md#checking-for-a-working-installation) 
 
 
 
@@ -205,9 +205,9 @@ Installation
 Checking for missing dependencies
 <pre><code>sudo apt -f install</code></pre>
 
-Now reboot
+Now reboot... 
 
-Does the GUI/Webinterface work?  [Yes] / [No] 
+Does the GUI/Webinterface work?  [Yes](/txt/congratulation.md#Congratulations) / [No](/txt/service.md#checking-for-a-working-installation) 
 
 
 &nbsp;
