@@ -1,9 +1,3 @@
-
-# HyperionUpdateGuide
- Decisison Path for updating Hyperion.ng
-
-
-new
 # Raspbian:
 
 How did you install your Version of Hyperion?
@@ -18,6 +12,8 @@ How did you install your Version of Hyperion?
 &nbsp;
 
 * I made a [docker](https://github.com/hyperion-project/hyperion.ng/blob/master/CompileHowto.md#with-docker) container ---N/A
+
+<a href="https://github.com/hyperion-project/hyperion.ng"><img src="/pictures/logo.png" width="350" alt="github hyperion logo"></a>
 
 
 &nbsp;
@@ -71,6 +67,8 @@ How did you install your Version of Hyperion?
 * [I use a Raspberry Pi 1 or Zero](/txt/raspbian.md#deb-package-pi-10)
 
 * [I use a Raspberry Pi 2/3/4](/txt/raspbian.md#deb-package-pi-234)
+
+<a href="https://github.com/hyperion-project/hyperion.ng"><img src="/pictures/logo.png" width="350" alt="github hyperion logo"></a>
 
 
 &nbsp;
