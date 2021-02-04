@@ -4,6 +4,8 @@
 
 * [I use a Raspberry Pi 2/3/4](/txt/hyperbian.md#deb-package-pi-234)
 
+<a href="https://github.com/hyperion-project/hyperion.ng"><img src="/pictures/logo.png" width="350" alt="github hyperion logo"></a>
+
 
 &nbsp;
 
