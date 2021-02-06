@@ -1,12 +1,7 @@
 theme: jekyll-theme-modernist
-html {
-
-  font-size: 14pt;
-
-}
+font-size: 14pt;
 
 h1, h2 {
 
   font-size: 20pt;
 
-}
