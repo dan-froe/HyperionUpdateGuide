@@ -2,7 +2,7 @@
 
 How did you install your Version of Hyperion?
 
-* [I downloaded a .deb package and installed it via `apt` or `dpkg`](HyperionUpdateGuide/txt/raspbian.md#pick-your-system)
+* [I downloaded a .deb package and installed it via `apt` or `dpkg`](/txt/raspbian.md#pick-your-system)
 
 &nbsp;
 
